@@ -4,7 +4,6 @@
 
 Patrón de ingesta de archivos desde un entorno on-premise hacia S3, con un DAG de Airflow por dominio de datos, validación de entrega y política de borrado diferenciada según el tipo de archivo.
 
-![Arquitectura del pipeline](docs/arquitectura.png)
 
 ## El problema
 
